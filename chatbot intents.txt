@@ -1,0 +1,68 @@
+>> cd C:\Users\dell\Desktop\chatbot
+>> streamlit run "END-TO-END CHATBOT FOR GO-MART.py"
+>> DONE BY MAUZUM SHAMIL
+
+---INTENTS--
+Q: What is gomart?
+A: gomart is an online shopping platform where you can purchase fresh fruits, vegetables, meats, and groceries and have them delivered directly to your doorstep.
+
+Q: How do I create an account?
+A: To create an account, click on the "Sign Up" button at the top right corner of our homepage and follow the instructions to register.
+
+Q: What areas do you deliver to?
+A: We currently deliver to all major areas within kochi. Please enter your zip code on our delivery page to check if we deliver to your location.
+
+Q: What are your delivery hours?
+A: Our delivery hours are from 8 AM to 8 PM, seven days a week. You can select your preferred delivery time slot at checkout.
+
+Q: How can I contact customer service?
+A: You can contact our customer service team via the "Contact Us" page on our website, by calling [Customer Service Number], or by emailing [Customer Service Email].
+
+Ordering and Payment
+Q: How do I place an order?
+A: Browse our categories, add items to your cart, and proceed to checkout. Follow the on-screen instructions to complete your order.
+
+Q: What payment methods do you accept?
+A: We accept all major credit cards, debit cards, and digital payment methods like PayPal and Apple Pay.
+
+Q: Can I change or cancel my order after it's been placed?
+A: Yes, you can modify or cancel your order within one hour of placing it. Please contact our customer service team for assistance.
+
+Q: Is there a minimum order amount?
+A: Yes, the minimum order amount is five to ensure efficient delivery and service.
+
+Q: How can I track my order?
+A: After placing your order, you will receive a tracking link via email or SMS, which you can use to monitor the status of your delivery.
+
+Products and Quality
+Q: Are your products fresh?
+A: Yes, we source our products from trusted local suppliers and farmers to ensure they are fresh and of the highest quality.
+
+Q: What if I receive a damaged or incorrect item?
+A: If you receive a damaged or incorrect item, please contact our customer service team immediately for a replacement or refund.
+
+Q: Can I request specific delivery instructions?
+A: Yes, you can add special delivery instructions during the checkout process to ensure your order is delivered according to your preferences.
+
+Q: Do you offer organic products?
+A: Yes, we offer a variety of organic fruits, vegetables, and groceries. You can filter by "organic" in our product categories.
+
+Q: What measures are you taking for food safety?
+A: We follow strict food safety protocols, including regular sanitization of our facilities and delivery vehicles, and contactless delivery options to ensure your safety.
+
+Discounts and Promotions
+Q: Do you offer discounts or promotions?
+A: Yes, we regularly offer discounts and promotions. Subscribe to our newsletter or follow us on social media to stay updated.
+
+Q: How can I use a discount code?
+A: Enter your discount code at checkout in the "Promo Code" field. The discount will be applied to your order total.
+
+Q: Do you have a loyalty program?
+A: Yes, we have a loyalty program where you can earn points on every purchase and redeem them for discounts on future orders.
+
+Delivery and Returns
+Q: What is your return policy?
+A: If you are not satisfied with your order, you can return it within 24 hours for a full refund or replacement. Please contact our customer service for assistance.
+
+Q: Can I schedule a recurring delivery?
+A: Yes, you can schedule recurring deliveries for items you purchase regularly. Select the "Recurring Delivery" option at checkout and choose your preferred frequency.
